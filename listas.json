@@ -1,0 +1,53 @@
+{
+  "version": 1,
+  "ordenar_todos_alfabeticamente": true,
+  "numerar_repetidos_como_opciones": true,
+  "fuentes": [
+    {
+      "nombre": "Principal",
+      "activa": true,
+      "url": "http://23.153.217.158:8080/get.php?username=2607.DAVIDplusGT2&password=2024.PLUS87998038g&type=m3u_plus",
+      "incluir_peliculas": true,
+      "incluir_series": true,
+      "categorias_tv_permitidas": [
+        "FUTBOL CHILE",
+        "ZAPPING CHILE",
+        "DEPORTES LATINOS",
+        "INFANTILES",
+        "CULTURA",
+        "CULTURALES",
+        "ENTRETENIMIENTO",
+        "MUSICA",
+        "NOTICIAS",
+        "CINE & SERIES",
+        "CINE GOLDEN",
+        "CINE UNIVERSAL",
+        "CINE 24/7",
+        "24/7 II",
+        "FUTBOL PERU",
+        "FUTBOL COLOMBIA",
+        "UNIMAS-UNIVISION-GALAVISION 2",
+        "ESPAÑA DEPORTES",
+        "ESPAÑA DAZN",
+        "ESPAÑA LA LIGA",
+        "ESPAÑA LIGA DE CAMPEONES",
+        "MEXICO",
+        "MEXICO II",
+        "CANALES XXX ADULTOS",
+        "ADULTOS DS"
+      ],
+      "canales_especificos_por_categoria": [
+        {
+          "categoria": "PPV EVENTOS Y DEPORTES",
+          "solo_canales": [
+            "PPV EVENTOS 1",
+            "PPV EVENTOS 2",
+            "PPV EVENTOS 3",
+            "PPV EVENTOS 4",
+            "PPV EVENTOS 5"
+          ]
+        }
+      ]
+    }
+  ]
+}

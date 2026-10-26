@@ -1,14 +1,15 @@
 {
-  "version": 1,
+  "version": 2,
   "ordenar_todos_alfabeticamente": true,
   "numerar_repetidos_como_opciones": true,
   "fuentes": [
     {
-      "nombre": "Principal",
+      "nombre": "Principal DAVIDplusGT2",
       "activa": true,
       "url": "http://23.153.217.158:8080/get.php?username=2607.DAVIDplusGT2&password=2024.PLUS87998038g&type=m3u_plus",
       "incluir_peliculas": true,
       "incluir_series": true,
+      "solo_eventos": false,
       "categorias_tv_permitidas": [
         "FUTBOL CHILE",
         "ZAPPING CHILE",
@@ -47,6 +48,60 @@
             "PPV EVENTOS 5"
           ]
         }
+      ]
+    },
+    {
+      "nombre": "LionTV Kelly2022",
+      "activa": true,
+      "url": "http://liontv.es:8080/get.php?username=Kelly2022&password=35yD3ADcsB&type=m3u_plus",
+      "incluir_peliculas": true,
+      "incluir_series": true,
+      "solo_eventos": false,
+      "excluir_prefijos_peliculas": [
+        "USA"
+      ],
+      "excluir_categorias_peliculas": [
+        "USA MOVIES",
+        "USA TV MOVIES",
+        "USA TV MOVIE"
+      ],
+      "prefijos_categorias_tv_permitidas": [
+        "EVENTOS PRIME 1",
+        "EVENTOS PRIME 2",
+        "EVENTOS PRIME 3",
+        "EVENTOS PREMIER 3",
+        "24/7"
+      ],
+      "categorias_tv_permitidas": [
+        "CHAMPIONS LEAGUE",
+        "FOX ONE",
+        "EVENTOS VIX +",
+        "PPV ESPN + ONLY EVENT",
+        "EVENTOS ESPN DISNEY+",
+        "PPV ESPN EVENTOS",
+        "PREMIER LEAGUE",
+        "LIGA ESPANOLA",
+        "BUNDESLIGA",
+        "SERIE A",
+        "LIGUE ONE",
+        "LIGA MEXICANA",
+        "LIGAS DE SUDAMERICA",
+        "LIGA PROFESIONAL SAUDI",
+        "DEPORTES HD",
+        "DEPORTES +3MBPS",
+        "MLS PASS",
+        "FORMULA 1",
+        "VIP FORMULA 1 CAMARAS",
+        "GRAN HERMANO",
+        "EL GRAN HERMANO",
+        "CINE Y SERIES",
+        "CINE Y SERIES FHD",
+        "CINE Y SERIES HD",
+        "CULTURA FHD",
+        "CULTURALES FHD",
+        "DAZN ES",
+        "SPAIN DEPORTES",
+        "SPAIN LA LIGA"
       ]
     }
   ]

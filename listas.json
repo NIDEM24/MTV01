@@ -1,5 +1,5 @@
 {
-  "version": 2,
+  "version": 3,
   "ordenar_todos_alfabeticamente": true,
   "numerar_repetidos_como_opciones": true,
   "fuentes": [
@@ -37,6 +37,25 @@
         "CANALES XXX ADULTOS",
         "ADULTOS DS"
       ],
+      "excluir_canales": [
+        "MTV 00s",
+        "HLN",
+        "Ingenio TV",
+        "Multimedios Bajio TV",
+        "Televisa Guadalajara DASH",
+        "ZCL• A3 SERIES (HD)",
+        "ZCL• TIGO SPORTS (HD)",
+        "DEP• GOL TV EC (HD)",
+        "INF• ZOOMOO (HD)",
+        "ES: AXN WHITE",
+        "Golden Latino (pe)",
+        "Galavision San Francisco",
+        "ED• M+ VAMOS (HD)",
+        "ES: BETIS TV",
+        "[+18⭕️] Hardcore",
+        "[+18⭕️] Brazzers TV",
+        "PORNSTARLOVEGIRLS.COM FHD"
+      ],
       "canales_especificos_por_categoria": [
         {
           "categoria": "PPV EVENTOS Y DEPORTES",
@@ -65,6 +84,14 @@
         "USA TV MOVIES",
         "USA TV MOVIE"
       ],
+      "excluir_categorias": [
+        "DEPORTES +3MBPS",
+        "24/7 4K",
+        "24/7 EXCLUSIVO SERIES",
+        "24/7 EXCLUSIVO PELICULAS",
+        "24/7 COMEDIA",
+        "24/7 ANIME"
+      ],
       "prefijos_categorias_tv_permitidas": [
         "EVENTOS PRIME 1",
         "EVENTOS PRIME 2",
@@ -88,7 +115,6 @@
         "LIGAS DE SUDAMERICA",
         "LIGA PROFESIONAL SAUDI",
         "DEPORTES HD",
-        "DEPORTES +3MBPS",
         "MLS PASS",
         "FORMULA 1",
         "VIP FORMULA 1 CAMARAS",
